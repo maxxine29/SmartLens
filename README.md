@@ -1,5 +1,8 @@
 SmartLens — AI-Powered SME Financial Intelligence Dashboard
 
+<img width="887" height="511" alt="image" src="https://github.com/user-attachments/assets/477428e0-f509-4089-809c-d9a885b06b90" />
+
+
 Transforming raw financial data into actionable intelligence for small businesses in Zimbabwe
 
 Project Overview
